@@ -13,10 +13,9 @@ import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author 小傅哥，微信：fustack
+ * @author 刘仕杰
  * @description 签名工具包；过期时间30分钟，缓存时间29分钟
- * @github https://github.com/fuzhengwei
- * @Copyright 公众号：bugstack虫洞栈 | 博客：https://bugstack.cn - 沉淀、分享、成长，让自己和他人都能有所收获！
+ * @Copyright 刘仕杰
  */
 @Slf4j
 public class BearerTokenUtils {
